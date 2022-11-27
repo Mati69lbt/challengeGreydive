@@ -1,0 +1,40 @@
+.video {
+  display: flex;
+  justify-content: center;
+}
+
+.titulos {
+  background-color: aquamarine;
+  width: 50%;
+  text-align: center;
+}
+.subtitle {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+}
+
+.cliente {
+  margin-right: 4px;
+}
+.at {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+
+.tareas {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.esc {
+  display: flex;
+  align-items: baseline;
+}
+
+.transcripcion {
+  width: 95%;
+}
