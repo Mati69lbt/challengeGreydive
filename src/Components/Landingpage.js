@@ -19,26 +19,26 @@ const Landingpage = () => {
       </div>
       <div className="footer">
         <div className="nom">
-          <h5>Nombre:</h5>
-          <h6>Matias Delgado</h6>
+          <h3>Nombre:</h3>
+          <h4>Matias Delgado</h4>
         </div>
         <div className="nom">
-          <h5>Email:</h5>
-          <h6>Mati69_lbt@hotmail.com</h6>
+          <h3>Email:</h3>
+          <h4>Mati69_lbt@hotmail.com</h4>
         </div>
         <div className="nom">
-          <h5>Web:</h5>
-          <h6>
+          <h3>Web:</h3>
+          <h4>
             <a href="https://matiasdelgado.onrender.com/">Click aquí</a>
-          </h6>
+          </h4>
         </div>
         <div className="nom">
-          <h5>Linkedin:</h5>
-          <h6>
+          <h3>Linkedin:</h3>
+          <h4>
             <a href="https://www.linkedin.com/in/matiasdelgadodev/">
               Click aquí
             </a>
-          </h6>
+          </h4>
         </div>
       </div>
     </div>

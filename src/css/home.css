@@ -20,14 +20,14 @@
 .at {
   display: flex;
   justify-content: center;
-  margin-bottom: 15px;
+  margin-bottom: 0.93rem;
 }
 
 .tareas {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  margin-bottom: 20px;
+  margin-bottom: 1.25rem;
 }
 
 .esc {
@@ -37,4 +37,10 @@
 
 .transcripcion {
   width: 95%;
+}
+
+@media (max-width: 576px) {
+  .tareas {
+    display: flex;
+  }
 }
