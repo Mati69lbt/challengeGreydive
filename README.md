@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+¡Aquí tienes un ejemplo de cómo podría ser un archivo README para tu Challenger!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# README - Challenger de React.js
 
-## Available Scripts
+Este proyecto es parte de un Challenger de React.js que tiene como objetivo poner en práctica los conocimientos de React y frontend para crear una aplicación web. El desafío consiste en desarrollar una aplicación en React.js que lea un archivo JSON y genere una nueva URL o ruta por cada ítem del archivo. Cada URL generada debe contener todos los datos de un test, como el cliente, la URL del video, las tareas y la transcripción.
 
-In the project directory, you can run:
+## Temática del Challenger
 
-### `npm start`
+El Challenger se centra en la creación de una aplicación web que permita mostrar tests relacionados con dos empresas. El diseño de la aplicación puede ser similar al ejemplo proporcionado o personalizado según las preferencias del participante.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Requisitos y habilidades
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Para completar con éxito el Challenger, se requieren los siguientes conocimientos y habilidades:
 
-### `npm test`
+- Conocimiento de React.js y desarrollo frontend.
+- Experiencia en la manipulación de archivos JSON.
+- Capacidad para desarrollar componentes y rutas en una aplicación web React.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Como hice yo el Challenger
 
-### `npm run build`
+En el Challenger cree una aplicación web que muestre tests relacionados con dos empresas diferentes. La estructura del proyecto debe incluir:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Una landing page que permita acceder a cada una de las empresas.
+2. Componentes para cada empresa, que mostrarán la información del test correspondiente.
+3. Un archivo de funciones que proporcionará los datos necesarios para utilizar en los componentes.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Tiempo de completación
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Se otorga a los participantes un plazo de 1 semana para completar el Challenger a partir de la fecha de inicio.
 
-### `npm run eject`
+## Evaluación y criterios
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+El desempeño de los participantes será evaluado en función de los siguientes criterios:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Despliegue exitoso de la aplicación web.
+2. Funcionalidad y cumplimiento de los requisitos establecidos.
+3. Diseño responsive y atractivo visualmente.
